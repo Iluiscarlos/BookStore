@@ -1,0 +1,19 @@
+.bg-mynav {
+  background-color: #49efa7;
+}
+
+body {
+  font-size: 1.25rem;
+  background-color: #ffffff;
+
+  /*#215a94*/
+}
+
+td {
+  line-height: 3rem;
+}
+
+.container-fluid{
+ height: 80px;
+ 
+}

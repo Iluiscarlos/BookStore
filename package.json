@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "blueimp-md5": "^2.19.0",
+    "md5": "^2.3.0",
+    "nodemon": "^2.0.19",
+    "pg": "^8.8.0",
+    "sequelize": "^6.21.4"
+  }
+}

@@ -1,0 +1,38 @@
+.bg-mynav {
+  background-color: #49efa7;
+  margin-bottom: 30px;
+}
+
+body {
+  font-size: 1.25rem;
+  background-color: #ffffff;
+
+  /*#215a94*/
+}
+
+td {
+  line-height: 3rem;
+}
+
+.menu{
+  margin-top: 50px;
+}
+
+.blocos{
+  background-color: rgb(28, 192, 178);
+  display: inline-block;
+  height: 250px;
+  width: 30%;
+  vertical-align: middle;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.blocos1{
+  background-color: rgb(28, 80, 192);
+  display: inline-block;
+  height: 250px;
+  width: 30%;
+  text-align: center;
+  margin-left: 10px;
+}
