@@ -1,0 +1,62 @@
+.bg-mynav {
+  background-image: linear-gradient(to right, rgb(19, 71, 214), rgb(0, 255, 106));
+  margin-bottom: 30px;
+}
+
+body {
+  font-size: 1.25rem;
+  background-color: #ffffff;
+
+  /*#215a94*/
+}
+
+td {
+  line-height: 3rem;
+}
+
+.menu{
+  margin-top: 50px;
+}
+
+.blocos{
+  background-color: rgb(28, 192, 178);
+  display: inline-block;
+  height: 250px;
+  width: 30%;
+  text-align: center;
+  margin-left: 20px;
+  border-radius: 10px;
+  border-color: #ffffff;
+}
+
+.blocos1{
+  background-color: rgb(28, 80, 192);
+  display: inline-block;
+  height: 250px;
+  width: 30%;
+  text-align: center;
+  margin-left: 20px;
+  border-radius: 10px;
+  border-color: #ffffff;
+}
+
+.options{
+  text-decoration: none;
+  vertical-align: middle;
+  color: #ffffff;
+}
+
+.time{
+  color: #ffffff;
+}
+
+#botton_exit{
+  margin-left: 73%;
+}
+
+.finding{
+border-radius: 5px;
+font-size: 15px;
+border-style: none ;
+}
+
